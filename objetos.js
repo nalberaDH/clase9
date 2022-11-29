@@ -49,6 +49,8 @@ const dot1 = new Dot(6,7);
 const dot2 = new Dot(65,0);
 const dot3 = new Dot(0,17);
 
-console.log(dot1);
-console.log(dot2);
-console.log(dot3);
+// console.log(dot1);
+// console.log(dot2);
+// console.log(dot3);
+
+console.log('Fin de app')
