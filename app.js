@@ -1,1 +1,1 @@
-console.log("Hola soy la app");
+console.log("Hola soy la app")
